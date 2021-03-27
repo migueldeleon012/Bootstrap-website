@@ -78,3 +78,7 @@ i{
         font-size: 0.75rem;
     }
 }
+@media screen and (max-width:780px){
+    html, body{
+        overflow-x:hiiden;
+    }
