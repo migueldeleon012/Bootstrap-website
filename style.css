@@ -80,6 +80,6 @@ i{
 }
 @media screen and (max-width:780px){
     html, body{
-        overflow-x:hiiden;
+        overflow-x:hidden;
     }
 }
